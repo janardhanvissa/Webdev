@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+body {
+	background-color: #80A9CC
+}
+
+h3
+{
+	text-align: centre;
+	font-size: 80px;
+	color:steelblue;
+
+}
+form{
+	margin:30px auto;
+	width: 200px;
+	color:steelblue;
+}
+input{ 
+	pading:10px;
+	font-size: inherit;
+}
+input[type="text"]{
+	display:block;
+	margin-bottom: 25px;
+	width:100%;
+	border:3px solid steelblue;
+	background: #C1D7E9;
+	margin: 8px 0;
+}
+
+input[type="password"] {
+	display:block;
+	margin-bottom: 25px;
+	width:100%;
+	border:3px solid steelblue;
+	background: #C1D7E9;
+	margin: 8px 0;
+}
+
+input[type="mail"] {
+	display:block;
+	margin-bottom: 25px;
+	width:200%;
+	border:3px solid steelblue;
+	background: #C1D7E9;
+	margin: 8px 0;
+}
+input[type="mobile"] {
+	display:block;
+	margin-bottom: 25px;
+	width:100%;
+	border:3px solid steelblue;
+	background: #C1D7E9;
+	margin: 8px 0;
+}
+input[type="radio"]
+{
+	margin: 0 8px, 25px, 18px;
+}
+input[type="radio"] : first-child
+{
+	margin-left: 0;
+}
+input[type="submit"]{
+width:400px;
+height:40px;
+border: none;
+background: steelblue;
+color:white;
+}
+</body>
+
+</html>
